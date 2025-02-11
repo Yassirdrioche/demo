@@ -1,0 +1,80 @@
+{
+  "aboutCosaluxe": {
+    "title": "About Cosaluxe",
+    "description": "Cosaluxe is a cosmetic brand specializing in hair and facial care, highlighting ingredients of organic origin and without aggressive chemicals.",
+    "details1": "Formulas enriched with essential oils and plant extracts.",
+    "details2": "Without silicones, sulfates or parabens for a healthier routine.",
+    "details3": "Ecological & cruelty-free commitment.",
+    "details4": "Certified organic products designed to respect your well-being.",
+    "discoverButton": "Discover Our Product"
+  },
+  "sideBar": {
+    "title":"SideBar",
+    "home": "Home",
+    "cart": "Cart",
+    "language": "Language"
+  },
+  "discoverOurProducts": "Discover Our Products",
+  "footer": {
+    "aboutUs": "About Us",
+    "contactUs": "Contact Us",
+    "followUs": "Follow Us"
+  },
+  "pack": {
+    "ourOffers": "Our Offers",
+    "orderNow": "Order Now",
+    "save": "Save"
+  },
+  "cartWords": {
+    "shoppingCart": "Shopping Cart",
+    "cart": "Cart",
+    "quantity": "Quantity",
+    "orderSummary": "Order Summary",
+    "totalWord": "Total",
+    "action": "Action",
+    "updateCart": "Update Cart",
+    "checkoutNow": "Checkout Now",
+    "productPicture": "Product Picture"
+  },
+  "productCard": {
+    "ourProducts": "Our Products",
+    "buyNow": "Buy Now",
+    "addToCart": "Add to Cart",
+    "viewDetails": "View Details",
+    "whatsapp": "WhatsApp"
+  },
+  "productDetails": {
+    "orderOnWhatsApp": "Order On WhatsApp",
+    "moreDetails": "More Details",
+    "addToCart": "Add To Cart"
+  },
+  "checkout": {
+    "title": "Checkout",
+    "belowTitle": "Complete your purchase securely.",
+    "orderSummary": "Order Summary",
+    "total": "Total",
+    "placeOrder": "Place Order",
+    "contact": {
+      "title": "Contact Information",
+      "email": "Email Address",
+      "phone": "Phone Number",
+      "placeholder": {
+        "email": "Enter Your Email",
+        "phone": "Enter Your Phone Number"
+      }
+    },
+    "shipping": {
+      "title": "shipping Address",
+      "firstName": "First Name",
+      "secondName": "Last Name",
+      "address": "Address",
+      "city": "City",
+      "placeHolder": {
+        "firstNamePlace": "Enter Your First Name",
+        "lastNamePlace": "Enter Your Last Name",
+        "addressPlace": "Enter Your Address",
+        "cityPlace": "Enter Your City"
+      }
+    }
+  }
+}

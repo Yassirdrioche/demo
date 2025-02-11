@@ -1,0 +1,80 @@
+{
+  "aboutCosaluxe": {
+    "title": "À propos de Cosaluxe",
+    "description": "Cosaluxe est une marque de cosmétiques spécialisée dans les soins capillaires et du visage, mettant en avant des ingrédients d'origine biologique et sans produits chimiques agressifs.",
+    "details1": "Formules enrichies en huiles essentielles et extraits de plantes.",
+    "details2": "Sans silicones, sulfates ni parabènes pour une routine plus saine.",
+    "details3": "Engagement écologique et sans cruauté.",
+    "details4": "Produits biologiques certifiés conçus pour respecter votre bien-être.",
+    "discoverButton": "Découvrez notre produit"
+  },
+  "sideBar": {
+    "title": "Barre latérale",
+    "home": "Accueil",
+    "cart": "Panier",
+    "language": "Langue"
+  },
+  "discoverOurProducts": "Découvrez nos produits",
+  "footer": {
+    "aboutUs": "À propos de nous",
+    "contactUs": "Contactez-nous",
+    "followUs": "Suivez-nous"
+  },
+  "pack": {
+    "ourOffers": "Nos offres",
+    "orderNow": "Commander maintenant",
+    "save": "Économiser"
+  },
+  "cartWords": {
+    "shoppingCart": "Panier d'achat",
+    "cart": "Panier",
+    "quantity": "Quantité",
+    "orderSummary": "Résumé de la commande",
+    "totalWord": "Total",
+    "action": "Action",
+    "updateCart": "Mettre à jour le panier",
+    "checkoutNow": "Passer à la caisse",
+    "productPicture": "Image du produit"
+  },
+  "productCard": {
+    "ourProducts": "Nos produits",
+    "buyNow": "Acheter maintenant",
+    "addToCart": "Ajouter au panier",
+    "viewDetails": "Voir les détails",
+    "whatsapp": "WhatsApp"
+  },
+  "productDetails": {
+    "orderOnWhatsApp": "Commander sur WhatsApp",
+    "moreDetails": "Plus de détails",
+    "addToCart": "Ajouter au panier"
+  },
+  "checkout": {
+    "title": "Paiement",
+    "belowTitle": "Finalisez votre achat en toute sécurité.",
+    "orderSummary": "Résumé de la commande",
+    "total": "Total",
+    "placeOrder": "Passer la commande",
+    "contact": {
+      "title": "Informations de contact",
+      "email": "Adresse e-mail",
+      "phone": "Numéro de téléphone",
+      "placeholder": {
+        "email": "Entrez votre e-mail",
+        "phone": "Entrez votre numéro de téléphone"
+      }
+    },
+    "shipping": {
+      "title": "Adresse de livraison",
+      "firstName": "Prénom",
+      "secondName": "Nom de famille",
+      "address": "Adresse",
+      "city": "Ville",
+      "placeHolder": {
+        "firstNamePlace": "Entrez votre prénom",
+        "lastNamePlace": "Entrez votre nom de famille",
+        "addressPlace": "Entrez votre adresse",
+        "cityPlace": "Entrez votre ville"
+      }
+    }
+  }
+}

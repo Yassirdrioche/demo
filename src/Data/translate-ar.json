@@ -1,0 +1,80 @@
+{
+  "aboutCosaluxe": {
+    "title": "عن كوزالوكس",
+    "description": "كوزالوكس هي علامة تجارية لمستحضرات التجميل متخصصة في العناية بالشعر والوجه، تبرز المكونات ذات الأصل العضوي والخالية من المواد الكيميائية القاسية.",
+    "details1": "تركيبات غنية بالزيوت العطرية ومستخلصات النباتات.",
+    "details2": "خالية من السيليكون، الكبريتات، والبارابين لروتين صحي أكثر.",
+    "details3": "التزام بيئي وخالي من القسوة ضد الحيوانات.",
+    "details4": "منتجات عضوية معتمدة مصممة لاحترام رفاهيتك.",
+    "discoverButton": "اكتشف منتجنا"
+  },
+  "sideBar": {
+    "title": "الشريط الجانبي",
+    "home": "الصفحة الرئيسية",
+    "cart": "عربة التسوق",
+    "language": "اللغة"
+  },
+  "discoverOurProducts": "اكتشف منتجاتنا",
+  "footer": {
+    "aboutUs": "معلومات عنا",
+    "contactUs": "اتصل بنا",
+    "followUs": "تابعنا"
+  },
+  "pack": {
+    "ourOffers": "عروضنا",
+    "orderNow": "اطلب الآن",
+    "save": "توفير"
+  },
+  "cartWords": {
+    "shoppingCart": "عربة التسوق",
+    "cart": "السلة",
+    "quantity": "الكمية",
+    "orderSummary": "ملخص الطلب",
+    "totalWord": "الإجمالي",
+    "action": "الإجراء",
+    "updateCart": "تحديث السلة",
+    "checkoutNow": "الدفع الآن",
+    "productPicture": "صورة المنتج"
+  },
+  "productCard": {
+    "ourProducts": "منتجاتنا",
+    "buyNow": "اشترِ الآن",
+    "addToCart": "أضف إلى السلة",
+    "viewDetails": "عرض التفاصيل",
+    "whatsapp": "واتساب"
+  },
+  "productDetails": {
+    "orderOnWhatsApp": "اطلب عبر واتساب",
+    "moreDetails": "المزيد من التفاصيل",
+    "addToCart": "أضف إلى السلة"
+  },
+  "checkout": {
+    "title": "الدفع",
+    "belowTitle": "أكمل عملية الشراء بأمان.",
+    "orderSummary": "ملخص الطلب",
+    "total": "الإجمالي",
+    "placeOrder": "إتمام الطلب",
+    "contact": {
+      "title": "معلومات الاتصال",
+      "email": "عنوان البريد الإلكتروني",
+      "phone": "رقم الهاتف",
+      "placeholder": {
+        "email": "أدخل بريدك الإلكتروني",
+        "phone": "أدخل رقم هاتفك"
+      }
+    },
+    "shipping": {
+      "title": "عنوان الشحن",
+      "firstName": "الاسم الأول",
+      "secondName": "اسم العائلة",
+      "address": "العنوان",
+      "city": "المدينة",
+      "placeHolder": {
+        "firstNamePlace": "أدخل اسمك الأول",
+        "lastNamePlace": "أدخل اسم العائلة",
+        "addressPlace": "أدخل عنوانك",
+        "cityPlace": "أدخل مدينتك"
+      }
+    }
+  }
+}
